@@ -1,0 +1,7 @@
+#testing connection
+# only use on main server http://www.kryptonescort.de
+wget http://www.kryptonescort.de/cms/modelUploads/Lilly%20Sedcard.jpg
+ping krytponescort.de
+ping google.de
+exit
+#close
